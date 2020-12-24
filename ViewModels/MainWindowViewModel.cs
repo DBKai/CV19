@@ -34,14 +34,10 @@ namespace CV19.ViewModels
 
         #region Status : string - Статус программы
         
-        /// <summary>
-        /// Статус программы
-        /// </summary>
+        /// <summary> Статус программы </summary>
         private string _Status = "Готов!";
 
-        /// <summary>
-        /// Статус программы
-        /// </summary>
+        /// <summary> Статус программы </summary>
         public string Status
         {
             get => _Status;
